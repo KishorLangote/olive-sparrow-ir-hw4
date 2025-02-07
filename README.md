@@ -1,8 +1,17 @@
-# React + Vite
+Welcome to my project! Here's some useful information about it.
+# My First Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple project I created to learn React.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To install this project locally, clone the repository and run:
+
+[git clone https://github.com/username/first-project.git
+](https://github.com/KishorLangote/olive-sparrow-ir-hw4.git)
+npm install
+
+![image](https://github.com/user-attachments/assets/abf74f1c-dcfe-4670-974c-81bc47c2e059)
+
+
+
